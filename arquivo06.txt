@@ -1,1 +1,3 @@
 arquivo 06
+
+alteração realizada por outro desenvolvedor e que está no repositório remoto
